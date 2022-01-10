@@ -1,5 +1,5 @@
 ---
-side_bar_position: 3
+sidebar_position: 3
 ---
 
 import Tabs from '@theme/Tabs';
